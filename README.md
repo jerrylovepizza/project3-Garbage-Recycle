@@ -1,4 +1,4 @@
-# react-auth
+# react-project3-Garbage-Recycle
 react app with passport authentication
 
 [Check out the app here](https://react-auth-simple.herokuapp.com/)
@@ -32,4 +32,4 @@ react app with passport authentication
 5. Happy Hacking!
 
 ## Contributors
-    Evan E J Tucker
+    Brandon Nordberg / Jerry Dai
