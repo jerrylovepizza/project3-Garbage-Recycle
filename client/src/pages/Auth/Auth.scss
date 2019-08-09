@@ -1,0 +1,32 @@
+@import "../../sass/variable.scss";
+
+.authBox {
+    position: relative;
+    // padding-top: 75px;
+    margin: 0 auto;
+    height: 89vh;
+    // width: 300px;
+    font-family: $text-font;
+    background-color: white;
+    .loginTitle {
+        text-align: center;
+    }
+
+    .signupLink {
+        margin-top: 15px;
+        text-align: center;
+    }
+
+    .title-font {
+        font-family: $title-font;
+    }
+
+    #loginBtn {
+        background: $primary-color;
+        font-family: $title-font;
+        color: $light-text;
+        border: none;
+        font-size: 1.2em;
+    }
+}
+

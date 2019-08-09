@@ -1,0 +1,14 @@
+.bg-login {
+    background-color: aquamarine;
+    /* position:relative; */
+    width: 100vw;
+    height: 89vh;
+    /* top: 0em; */
+    /* bottom: 0em;  */
+}
+.loginBox {
+ padding-top: 75px;
+    margin: 0 auto;
+    /* height: 89vh; */
+     width: 300px;
+}

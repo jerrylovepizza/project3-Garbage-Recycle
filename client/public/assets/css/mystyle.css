@@ -1,0 +1,18 @@
+#bg-img{
+    position: absolute;
+    width:100vw;
+    height:89vh;
+    top:50px;
+    z-index: 0;
+
+}
+#root {
+    /* background-image: url(../images/sortingGarbageApp.png); */
+    height: 100vh;
+    /* background-position: center center; */
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover contain ;
+    /* background-color:orange; */
+    margin: 0em;
+}
