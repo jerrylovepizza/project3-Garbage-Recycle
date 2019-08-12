@@ -3,6 +3,7 @@ import "./Profile.scss";
 import { Button } from "reactstrap";
 import { Link } from "react-router-dom"
 import API from "../../utils/API"
+import Map  from"../../components/Map";
 
 class Profile extends Component {
     state = {
@@ -43,6 +44,7 @@ class Profile extends Component {
                 {this.state.loggedIn ? (
                     <div className="profileBox">
                         <h1 id="userTitle">Welcome {this.state.user.username}</h1>
+                        <Map />
                     </div>
                 ) : (
                     <div className="noUser">

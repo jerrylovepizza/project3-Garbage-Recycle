@@ -3,6 +3,9 @@ import { Button } from "reactstrap";
 import API from "../../utils/API";
 // import Joke from "../../components/Joke"
 import "./Home.scss";
+import background from "./sortingGarbageApp.png";
+
+
 
 class Home extends Component {
 
@@ -41,11 +44,9 @@ class Home extends Component {
 
   render() {
     return (
-      <div>
-      <section className="one-fourth" id="html">
-        {/* <img src={Diamond}   width="100%" height="520px" /> */}
-      </section>
-    </div>
+        <div style={{ textAlign: "center" }}>
+            <img src={background} style={{ width: 1000 }} alt="your alt text here" />
+        </div>
     );
   }
 }
