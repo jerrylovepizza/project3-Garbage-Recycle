@@ -54,6 +54,7 @@ class Profile extends Component {
                                 <Link className="loginLink" to="/login"><Button className="loginBtn" color="info" block>Login</Button></Link>
                             </>
                         ) : (
+                            
                             <img id="loadingIcon" src="./assets/images/loading.gif" alt="loading"/>
                         )}
                     </div> 

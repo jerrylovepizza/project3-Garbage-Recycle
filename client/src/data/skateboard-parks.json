@@ -130,7 +130,7 @@
       "properties": {
         "PARK_ID": 1160,
         "FACILITYID": 28007,
-        "NAME": "Roving Skateboard Park Location",
+        "NAME": "Denver Arapahoe Disposal Site (DADS) Landfill",
         "NAME_FR": "Lieu de planchodrome itinérant",
         "ADDRESS": "10 Warner Colpitts Lane",
         "ADDRESS_FR": "10, ruelle Warner Colpitts",
@@ -144,15 +144,15 @@
         "CREATED_DA": null,
         "FACILITY": "Johnny Leroux Stittsville Community Arena - Roving Skateboard Park Location",
         "FACILITY_F": "Aréna communautaire de Stittsville Johnny-Leroux - Lieu de planchodrome itinérant",
-        "DESCRIPTIO": "Flat surface, 5 components",
-        "DESCRIPT_1": "Surface plane, 5 modules",
+        "DESCRIPTIO": "Denver Arapahoe Disposal Site (DADS) is a regional subtitle D facility that provides safe and convenient disposal services for communities, businesses and industries serving Denver Metro and surrounding areas.",
+        "DESCRIPT_1": "800-963-4776",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
         "PICTURE__1": null
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.926651366520872, 45.260659774950561]
+        "coordinates": [-104.709120, 39.645710]
       }
     },
     {
@@ -160,7 +160,7 @@
       "properties": {
         "PARK_ID": 1693,
         "FACILITYID": 28016,
-        "NAME": "Legacy Skateboard Park",
+        "NAME": "Douglas County Community Recycling",
         "NAME_FR": "Planchodrome Legacy",
         "ADDRESS": "101 Centrepointe Drive",
         "ADDRESS_FR": "101, promenade Centrepointe",
@@ -174,15 +174,15 @@
         "CREATED_DA": null,
         "FACILITY": "District: larger facility to service population of 100,000 plus",
         "FACILITY_F": "De district : grande installation assurant des services à 100 000 résidents ou plus.",
-        "DESCRIPTIO": "Large concrete bowl, many street and vertical components, 17,000 sq ft",
-        "DESCRIPT_1": "Grand bol de béton, modules de rue et modules verticaux, 17 000 pi2",
+        "DESCRIPTIO": "11901 Newlin Gulch Road, Parker, CO 80134.",
+        "DESCRIPT_1": "303.660.7400",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
         "PICTURE__1": null
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.760933332842754, 45.345566668964558]
+        "coordinates": [-104.810336, 39.500012]
       }
     },
     {
@@ -190,7 +190,7 @@
       "properties": {
         "PARK_ID": 1717,
         "FACILITYID": 28018,
-        "NAME": "Greenboro Skateboard Park",
+        "NAME": "Central Facilities Station",
         "NAME_FR": "Planchodrome de Greenboro",
         "ADDRESS": "3142 Conroy Road",
         "ADDRESS_FR": "3142, chemin Conroy",
@@ -204,15 +204,15 @@
         "CREATED_DA": null,
         "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
         "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
-        "DESCRIPTIO": "Flat asphalt surface, 5 components",
-        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "DESCRIPTIO": "The facility was recently upgraded to install single stream recycling bins and new signage. Common recyclables, such as cardboard, plastic, glass, and paper all go in the same container. No separation is necessary. This facility also has used cooking oil drums and clothing recycling bins. ",
+        "DESCRIPT_1": " 720.876.2650",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
         "PICTURE__1": null
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.625996131485707, 45.375401587496128]
+        "coordinates": [-104.830640, 39.717520]
       }
     },
     {
@@ -220,7 +220,7 @@
       "properties": {
         "PARK_ID": 137,
         "FACILITYID": 28019,
-        "NAME": "Bridlewood Skateboard Park",
+        "NAME": "Quail Street Recycling Center",
         "NAME_FR": "Planchodrome Bridlewood",
         "ADDRESS": "65 Stonehaven Drive",
         "ADDRESS_FR": "65, promenade Stonehaven",
@@ -234,15 +234,15 @@
         "CREATED_DA": null,
         "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
         "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
-        "DESCRIPTIO": "Flat asphalt surface, 5 components",
-        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "DESCRIPTIO": "The Quail Street Recycling Center accepts sorted cardboard, aluminum beverage cans, scrap metal, glass jars and bottles, paper and certain types of plastics.",
+        "DESCRIPT_1": "303-987-7190",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
         "PICTURE__1": null
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.857009812435976, 45.290758029776626]
+        "coordinates": [-105.123730, 39.731730]
       }
     },
     {
@@ -250,7 +250,7 @@
       "properties": {
         "PARK_ID": 1133,
         "FACILITYID": 28020,
-        "NAME": "Roving Skateboard Park Location",
+        "NAME": "Rooney Road Recycling Center",
         "NAME_FR": "Lieu de planchodrome itinérant",
         "ADDRESS": "100 Clifford Campbell Street",
         "ADDRESS_FR": "100, rue Clifford-Campbell",
@@ -264,15 +264,15 @@
         "CREATED_DA": null,
         "FACILITY": "Fitzroy Harbour Community Centre - Roving Skateboard Park Location",
         "FACILITY_F": "Centre communautaire de Fitzroy Harbour - Lieu de planchodrome itinérant",
-        "DESCRIPTIO": "Flat surface, 5 components",
-        "DESCRIPT_1": "Surface plane, 5 modules",
+        "DESCRIPTIO": "The Rooney Road Recycling Center recycles household chemicals and wastes (for example, items you wouldn't want kids to get into) and electronics.",
+        "DESCRIPT_1": "303.316.6262",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
         "PICTURE__1": null
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.206087708136721, 45.470459866077654]
+        "coordinates": [-105.196220, 39.712170]
       }
     },
     {
@@ -280,7 +280,7 @@
       "properties": {
         "PARK_ID": 657,
         "FACILITYID": 28000,
-        "NAME": "Roving Skateboard Park Location",
+        "NAME": "IT Liquidators",
         "NAME_FR": "Lieu de planchodrome itinérant",
         "ADDRESS": "110 Malvern Drive",
         "ADDRESS_FR": "110, promenade Malvern",
@@ -294,15 +294,15 @@
         "CREATED_DA": null,
         "FACILITY": "Walter Baker Sports Centre - Roving Skateboard Park Location",
         "FACILITY_F": "Centre sportif Walter-Baker - Lieu de planchodrome itinérant",
-        "DESCRIPTIO": "Flat surface, 5 components",
-        "DESCRIPT_1": "Surface plane, 5 modules",
+        "DESCRIPTIO": "When equipment can no longer be refurbished, IT Liquidators makes sure that equipment is ethically, legally and safely recycled.  We uphold the highest recycling standards, requiring that all non-remarketable equipment is recycled responsibly.",
+        "DESCRIPT_1": "(303) 932-8948",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
         "PICTURE__1": null
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.760235255689508, 45.280622216516925]
+        "coordinates": [-105.009290, 39.554820]
       }
     },
     {
@@ -310,7 +310,7 @@
       "properties": {
         "PARK_ID": 653,
         "FACILITYID": 28008,
-        "NAME": "Roving Skateboard Park Location",
+        "NAME": "Styrofoam Corral",
         "NAME_FR": "Lieu de planchodrome itinérant",
         "ADDRESS": "5660 Osgoode Main Street",
         "ADDRESS_FR": "5660, rue Osgoode Main",
@@ -324,15 +324,15 @@
         "CREATED_DA": null,
         "FACILITY": "Osgoode Community Centre - Roving Skateboard Park Location",
         "FACILITY_F": "Centre communautaire d'Osgoode - Lieu de planchodrome itinérant",
-        "DESCRIPTIO": "Flat surface, 5 components",
-        "DESCRIPT_1": "Surface plane, 5 modules",
+        "DESCRIPTIO": "Styrofoam/Polystyrene.  Must be white, unprinted and clean, with no tape or other packing materials. Please bag smaller pieces. No packing peanuts, please!",
+        "DESCRIPT_1": "(303) 279-4748",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
         "PICTURE__1": null
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.60118478829267, 45.147641950106689]
+        "coordinates": [-105.198950, 39.741420]
       }
     },
     {
@@ -340,7 +340,7 @@
       "properties": {
         "PARK_ID": 812,
         "FACILITYID": 35050,
-        "NAME": "Charlie Bowins Skateboard Park",
+        "NAME": "Thornton Solid Waste-Recycling",
         "NAME_FR": "Planchodrome Charlie-Bowins",
         "ADDRESS": "435 Bronson Avenue",
         "ADDRESS_FR": "435, avenue Bronson",
@@ -354,15 +354,15 @@
         "CREATED_DA": "2015/05/20",
         "FACILITY": "District: larger facility to service population of 100,000 plus",
         "FACILITY_F": "De district : grande installation assurant des services à 100 000 résidents ou plus.",
-        "DESCRIPTIO": "Flat concrete surface, 10 plus components (large half pipe), City run learn to skateboard programs, City run skateboard camps in summer",
-        "DESCRIPT_1": "Surface de béton plane, 10 modules ou plus (grande demi-lune), programmes et camps de planche à roulettes en été géré par la Ville",
+        "DESCRIPTIO": "​The Environmental Services Team provides curbside trash and recycling collection services to over 29,000 homes in the City, as well as a number of other collection services for our citizens.",
+        "DESCRIPT_1": "(720) 977-6200",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
         "PICTURE__1": null
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.703622500360268, 45.408488357092367]
+        "coordinates": [-104.977330, 39.921790]
       }
     },
     {
@@ -370,7 +370,7 @@
       "properties": {
         "PARK_ID": 2457,
         "FACILITYID": 35637,
-        "NAME": "Diamond Jubilee Skateboard Park",
+        "NAME": "All Recycling Inc.",
         "NAME_FR": "Planchodrome Jubilé de Diamant",
         "ADDRESS": "2810 Findlay Creek Drive",
         "ADDRESS_FR": "2810, promenade Findlay Creek",
@@ -384,15 +384,15 @@
         "CREATED_DA": "2016/06/22",
         "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
         "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
-        "DESCRIPTIO": "Flat asphalt surface, 5 components",
-        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "DESCRIPTIO": "All Recycling Inc. is one of the largest most efficient scrap facilities in the Rocky Mountain Region. Our outstanding long-term relationships with mills, foundries and consumers worldwide mean better, more consistent prices for our customers.",
+        "DESCRIPT_1": "(303) 922-7722",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
         "PICTURE__1": null
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.609516309730921, 45.314086718258636]
+        "coordinates": [-105.007640, 39.673670]
       }
     },
     {
@@ -400,7 +400,7 @@
       "properties": {
         "PARK_ID": 430,
         "FACILITYID": 28005,
-        "NAME": "Blackburn Skateboard Park",
+        "NAME": "A1 Organics Mountain States",
         "NAME_FR": "Planchodrome Blackburn",
         "ADDRESS": "190 Glen Park Drive",
         "ADDRESS_FR": "190, promenade Glen Park",
@@ -414,15 +414,15 @@
         "CREATED_DA": null,
         "FACILITY": "Neighbourhood : smaller size facility to service population of 10,000 or less",
         "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
-        "DESCRIPTIO": "Flat asphalt surface, 5 components",
-        "DESCRIPT_1": "Surface d'asphalte plane, 5 modules",
+        "DESCRIPTIO": "A1 Organics is family-owned and operated since 1974. We provide home gardens, commercial landscapers, agriculturalists, municipalities, and institutions with organic composts, soils, mulches, and organics recycling services. Originally located in Eaton, we've expanded to serve more clients and now operate out of Eaton CO, Keenesburg CO, Commerce City CO, and Englewood, CO.",
+        "DESCRIPT_1": "1-800-776-1644",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
         "PICTURE__1": null
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.562796920677627, 45.429643413219814]
+        "coordinates": [-105.015370, 39.635830]
       }
     },
     {
