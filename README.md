@@ -1,4 +1,4 @@
-# react-project3-Garbage-Recycle
+## react-project3-Garbage-Recycle
 react app with passport authentication
 
 [Check out the app here](https://react-auth-simple.herokuapp.com/)
